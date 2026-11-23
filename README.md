@@ -1,7 +1,7 @@
 **[Трансформація системи спеціальної та інклюзивної дошкільної освіти в Україні (2019–2025 рр.)]**
 
 **Джерела та обробка даних:** Первинний масив офіційної статистики було консолідовано й програмно очищено за допомогою Python (Pandas). Інтерактивне моделювання, розрахунок регіональних індексів та темпів приросту реалізовано на платформі Tableau Public.
-**[Переглянути інтерактивний дашборд у Tableau Public](https://public.tableau.com:9443/views/20192025_/sheet6?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[Переглянути інтерактивний дашборд у Tableau Public](https://public.tableau.com/app/profile/yuliya.smirnaya/viz/20192025_/sheet6?publish=yes)**
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5ff3b6c4-1ccc-4272-8398-b54d981c6890" />
